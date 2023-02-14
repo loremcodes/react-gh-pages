@@ -20,7 +20,7 @@ function App() {
         </a>
       </header> */}
       <h1>
-        Hello world
+        Hello world from gh-pages
       </h1>
     </div>
   );
